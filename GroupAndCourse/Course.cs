@@ -60,7 +60,7 @@ namespace GroupAndCourse
                 }
                 else
                 {
-                    Console.WriteLine();
+                    Console.WriteLine($"{no} nomreli qrup Course-da yoxdur");
                 }
             }
 
