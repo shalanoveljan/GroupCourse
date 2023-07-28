@@ -56,7 +56,7 @@ namespace GroupAndCourse
                 {
 
                     Console.WriteLine("{0}----->{1}", groups[i].NO, groups[i].Avgpoint);
-                    //Console.WriteLine(groups[no]);
+                   
                 }
                 else
                 {
