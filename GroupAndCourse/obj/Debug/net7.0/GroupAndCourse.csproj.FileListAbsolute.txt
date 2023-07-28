@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\bin\Debug\net7.0\GroupAndCourse.exe
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\bin\Debug\net7.0\GroupAndCourse.deps.json
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\bin\Debug\net7.0\GroupAndCourse.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\bin\Debug\net7.0\GroupAndCourse.dll
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\bin\Debug\net7.0\GroupAndCourse.pdb
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\GroupAndCourse.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\GroupAndCourse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\GroupAndCourse.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\GroupAndCourse.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\GroupAndCourse.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\GroupAndCourse.dll
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\refint\GroupAndCourse.dll
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\GroupAndCourse.pdb
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\GroupAndCourse.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\GroupAndCourse\obj\Debug\net7.0\ref\GroupAndCourse.dll
