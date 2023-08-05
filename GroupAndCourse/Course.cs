@@ -68,11 +68,12 @@ namespace GroupAndCourse
 
         public  void GetGroupsByPointRange(int minPoint, int maxPoint)
         {
-            for (int i = minPoint; i < maxPoint; i++)
+            foreach (var item in groups)
             {
-                
-
-                Console.WriteLine("{0}----->{1}", groups[i].NO, groups[i].Avgpoint);
+                if (item.Avgpoint>=minPoint && item.Avgpoint<=maxPoint)
+                {
+                    Console.WriteLine("{0}----->{1}", item.NO, item.Avgpoint);
+                }
             }
 
         }
